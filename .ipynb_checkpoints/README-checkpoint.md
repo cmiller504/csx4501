@@ -24,7 +24,7 @@ work on real-life data science problems.
 
 ###NO.1
 
-I volunteer for an organization called SPY ("Safe Space for Youth"). I would like to work with them to determine:
+I volunteer for an organization called SPY ("Safe Space for Youth"). I would like to work with them to:
 * Of the people actively using SPY's services, which are benefiting the most from their programs and why?
 * Which services and projects are achieving the most successful outcomes for the individuals SPY serves and why?
 * What improvements should be made to SPY's existing Case Management System for collecting data?
