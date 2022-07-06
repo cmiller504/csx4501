@@ -22,7 +22,7 @@ work on real-life data science problems.
 
 ## project ideas
 
-###NO.1
+### NO.1
 
 I volunteer for an organization called SPY ("Safe Space for Youth"). I would like to work with them to determine:
 * Of the people actively using SPY's services, which are benefiting the most from their programs and why?
@@ -30,7 +30,7 @@ I volunteer for an organization called SPY ("Safe Space for Youth"). I would lik
 * What improvements should be made to SPY's existing Case Management System for collecting data?
 
 
-###NO.2
+### NO.2
 
 Fun project: Surf spot/conditions predictor (compare to Surfline App)
 
