@@ -2,7 +2,7 @@
 
 ## profile
 
-My name is **Courtney**
+My name is **Courtney**\n
 I'm the fund/project manager for the [California Conservation Genomics Project](https://www.ccgproject.org/) based at 
 UCLA.
 I'm from New Orleans, but I've lived in LA for 4 years.
